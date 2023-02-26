@@ -19,10 +19,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-France
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stemrys&show_icons=true&locale=en&layout=compact" alt="stemrys" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stemrys&show_icons=true&locale=en" alt="stemrys" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=stemrys&show_icons=true&locale=en" alt="stemrys" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stemrys&" alt="stemrys" /></p>
