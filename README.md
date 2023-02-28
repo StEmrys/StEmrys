@@ -1,7 +1,10 @@
 
 
 <h2 align="center">Hi 👋! My name is Emre<br> and I'm a QA Automation Test Engineer, <br>from FRANCE</h2>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=stemrys&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stemrys&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stemrys&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ##
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=stemrys&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -22,13 +25,9 @@
 </div>
 
 ###
-# 💫 About Me:
-<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=stemrys&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=stemrys&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stemrys&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
