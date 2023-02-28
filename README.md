@@ -42,3 +42,15 @@
 <img src="https://komarev.com/ghpvc/?username=stemrys&&style=flat-square" align="center" />
 </div>  
 
+
+
+
+
+###
+
+<img src="https://raw.githubusercontent.com/stemrys/stemrys/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
