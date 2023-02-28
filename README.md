@@ -1,13 +1,14 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
+
 
 <h2 align="center">Hi 👋! My name is Emre<br> and I'm a QA Automation Test Engineer, <br>from FRANCE</h2>
 
 
 ##
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=stemrys&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+# 
+![](https://github-readme-stats.vercel.app/api?username=stemrys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stemrys&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stemrys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
@@ -59,10 +60,7 @@
 
 
 
-# 
-![](https://github-readme-stats.vercel.app/api?username=stemrys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=stemrys&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stemrys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
