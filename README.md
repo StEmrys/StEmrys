@@ -47,21 +47,7 @@
 </div>
 
 ###
-name: Generate snake animation
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - master
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
 
     steps:
       - name: generate snake.svg
