@@ -1,19 +1,5 @@
 <h2 align="center">Hi 👋! My name is Emre<br> and I'm a QA Automation Test Engineer, <br>from FRANCE</h2>
 
-###
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/hritikbhandari
-[product-screenshot]: images/screenshot.png
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false&username=St" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&username=St" height="150" alt="languages graph"  />
-</div>
-###
-###
 
 <br clear="both">
 
@@ -49,25 +35,6 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=plastic" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
-
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ###
 
