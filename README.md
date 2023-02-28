@@ -47,12 +47,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/St/St/blob/output/snake.svg" alt="Snake animation" />
-
-###
 name: Generate snake animation
 
 on:
@@ -84,3 +78,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+###
+
