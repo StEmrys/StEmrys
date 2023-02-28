@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Emre<br> and I'm a QA Automation Test Engineer, <br>from FRANCE</h2>
 
 
-## Github Stats  
+##
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=stemrys&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
