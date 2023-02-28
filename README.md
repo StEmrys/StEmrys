@@ -30,9 +30,6 @@
 
 ###
 
-
-
-
 ##
 
 <br clear="both">
@@ -56,10 +53,12 @@
 </div>
 
 ###
-### 
+
+###  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=stemrys&&style=flat-square" align="center" />
 </div>  
+###
 
 
 
@@ -70,13 +69,6 @@
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
