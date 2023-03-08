@@ -50,10 +50,11 @@
   <a href="eosoydemir@outlook.fr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=plastic" height="35" alt="microsoft-outlook logo"  />
  
-    [![Google Forms](https://img.shields.io/badge/Google%20Forms-Click%20Here-red)](https://docs.google.com/forms/u/0/)
+  
 
 ###
 
+  [![Google Forms](https://img.shields.io/badge/Google%20Forms-Click%20Here-red)](https://docs.google.com/forms/u/0/)
 
 
 
@@ -63,7 +64,7 @@
 <img src="https://komarev.com/ghpvc/?username=stemrys&&style=flat-square" align="center" />
 </div>  
 
-
+[![Google Forms](https://img.shields.io/badge/Google%20Forms-Click%20Here-red)](https://docs.google.com/forms/u/0/)
 
 
 
