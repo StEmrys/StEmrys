@@ -56,7 +56,7 @@
 </div>
 
 ###
-[![Google Documents](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)]([https://shields.io/](https://docs.google.com/forms/u/0/))
+[![Google Documents]((https://docs.google.com/forms/u/0/)<Google Sheets>-< >-<COLOR>.svg)]([https://shields.io/])
 
 
 ###  
