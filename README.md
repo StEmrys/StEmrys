@@ -51,13 +51,13 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=plastic" height="35" alt="microsoft-outlook logo"  />
   </a>
    <a href="https://docs.google.com/forms/u/0/" target="_blank">
-    <img src="	https://spotlightbranding.com/wp-content/uploads/2…ogle-sheets-for-business-google-docs-logo-png.jpg=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=plastic" height="35" alt="google documents-logo"  />
+    <img src="	https://spotlightbranding.com/wp-content/uploads/2…ogle-sheets-for-business-google-docs-logo-png.jpg height="35" alt="google documents-logo"  />
   </a>
 </div>
 
 ###
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true)
 
 ###  
 <div align="center">
