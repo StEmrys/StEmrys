@@ -54,7 +54,7 @@
 
 ###
 
-  [![Google Forms](https://img.shields.io/badge/Google%20Forms-Click%20Here-red)](https://docs.google.com/forms/u/0/)
+  [![Google Forms](https://img.shields.io/badge/Google%20Forms-Click%20Here-red)](https://docs.google.com/forms/u/0/) height="35"
 
 
 
@@ -64,7 +64,7 @@
 <img src="https://komarev.com/ghpvc/?username=stemrys&&style=flat-square" align="center" />
 </div>  
 
-[![Google Forms](https://img.shields.io/badge/Google%20Forms-Click%20Here-red)](https://docs.google.com/forms/u/0/)
+
 
 
 
