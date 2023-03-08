@@ -56,7 +56,8 @@
 </div>
 
 ###
-[![Generic badge](https://img.shields.io/badge/Google Sheets>-<Questionne>-<COLOR>.svg)](https://docs.google.com/forms/u/0/)
+[![Google Forms](https://img.shields.io/badge/Google%20Forms-Click%20Here-red)](https://docs.google.com/forms/u/0/INSERT-FORM-ID-HERE)
+
 
 
 ###  
@@ -64,7 +65,6 @@
 <img src="https://komarev.com/ghpvc/?username=stemrys&&style=flat-square" align="center" />
 </div>  
 
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Naereen/badges)
 
 
 
