@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi 👋! My name is Emre<br> and I'm a QA Automation Test Engineer, <br>from FRANCE</h2>
+<h2 align="center"; color: red>Hi 👋! My name is Emre<br> and I'm a QA Automation Test Engineer, <br>from FRANCE</h2>
 
 <br>
 
