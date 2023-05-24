@@ -31,6 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="30" width="42" atl"css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" width="42" atl"css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" width="42" atl"css3 logo" />
+<img src="https://cdn.svgporn.com/logos/postman.svg" height="30" width="100" atl"css3 logo" />
   
             
           
