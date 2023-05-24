@@ -1,17 +1,12 @@
 
 
-<h2  color:red; text align="center";  >Hi 👋! My name is Emre<br> and I'm a QA Automation Test Engineer, <br>from FRANCE</h2>
-
-<br>
-
-
-
-
+![Blue Geometric Technology LinkedIn Banner (3)](https://github.com/StEmrys/StEmrys/assets/116520697/3ace2fff-6ae7-4cdf-8183-5c7cf941e352)
 
 
 
 ##
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=stemrys&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
 
 
@@ -33,25 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" width="42" atl"css3 logo" />
 <img src="https://cdn.svgporn.com/logos/postman.svg" height="30" width="100" atl"css3 logo" />
   
-            
-          
-          
   
-            
-          
-          
-          
-            
-          
-            
-            
-          
-                
-                  
-          
-  
-            
-          
           
           
 </div>
@@ -69,6 +46,7 @@
 <br clear="both">
 
 <div align="center">
+  
   <a href="2144" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="35" alt="discord logo"  />
   </a>
@@ -77,6 +55,9 @@
   </a>
   <a href="eosoydemir@outlook.fr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=plastic" height="35" alt="microsoft-outlook logo"  />
+    <a/>
+     <a href="https://medium.com/@eosoydemir" target="blank"><img align="up" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eosoydemir" height="35"  />
+</a>
  
   
 
