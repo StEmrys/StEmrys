@@ -27,7 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" width="42" atl"css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" width="42" atl"css3 logo" />
   <img src="https://cdn.svgporn.com/logos/postman.svg" height="30" width="100" atl"css3 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" atl "docker logo/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" atl "docker logo" />    
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" width="42" atl "jenkins logo" />
+          
 
           
   
