@@ -1,6 +1,7 @@
 
+![Blue Geometric Technology LinkedIn Banner (4)](https://github.com/StEmrys/StEmrys/assets/116520697/836b36cc-f645-4667-899d-6f8b5b36ad95)
 
-![Blue Geometric Technology LinkedIn Banner (3)](https://github.com/StEmrys/StEmrys/assets/116520697/3ace2fff-6ae7-4cdf-8183-5c7cf941e352)
+
 
 
 
