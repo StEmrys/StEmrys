@@ -31,7 +31,7 @@ La certification ISTQB® Certified Tester Foundation Level (CTFL) fournit des co
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" atl "docker logo" />    
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" width="42" atl "jenkins logo" />
 
- https://app.diplomasafe.com/en-US/diploma/d999009a971089e7f3d09bef4eda35ce415c61ff8
+
           
 
           
