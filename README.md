@@ -2,16 +2,19 @@
 ![Blue Geometric Technology LinkedIn Banner (4)](https://github.com/StEmrys/StEmrys/assets/116520697/836b36cc-f645-4667-899d-6f8b5b36ad95)
 
 
-ISTQB : Certified Tester Foundation Level (CTFL)
-La certification ISTQB® Certified Tester Foundation Level (CTFL) fournit des connaissances essentielles en matière de tests qui peuvent être mises en pratique et, très important, explique la terminologie et les concepts utilisés dans le monde entier dans le domaine des tests. CTFL est pertinent dans toutes les approches et pratiques de livraison de logiciels, notamment Waterfall, Agile, DevOps et la livraison continue. La certification CTFL est reconnue comme un prérequis à toutes les autres certifications ISTQB® où le niveau Foundation est requis.
- https://app.diplomasafe.com/en-US/diploma/d999009a971089e7f3d09bef4eda35ce415c61ff8
+<div align="center">
+<img src="https://github.com/StEmrys/StEmrys/assets/116520697/fce71ccc-9613-4673-ac03-56c4132718f4" align="center" height="120" width="168" />
+<div>
 
-  
+<p align="center"> ISTQB : Certified Tester Foundation Level (CTFL) La certification ISTQB® Certified Tester Foundation Level (CTFL) fournit des connaissances essentielles en matière de tests qui peuvent être mises en pratique et, très important, explique la terminologie et les concepts utilisés dans le monde entier dans le domaine des tests. CTFL est pertinent dans toutes les approches et pratiques de livraison de logiciels, notamment Waterfall, Agile, DevOps et la livraison continue. La certification CTFL est reconnue comme un prérequis à toutes les autres certifications ISTQB® où le niveau Foundation est requis</p>
 
-
+   <div>
+      <hr />   
+   </div>   
 
 
 <br clear="both">
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
@@ -37,19 +40,22 @@ La certification ISTQB® Certified Tester Foundation Level (CTFL) fournit des co
           
   
   
-          
+     
           
 </div>
+<br clear="both">
+ <div>
+      <hr />   
+   </div> 
 
 
 
-##
 
 <br clear="both">
 
 <img align="right" height="0" src=""  />
 
-###
+
 
 <br clear="both">
 
