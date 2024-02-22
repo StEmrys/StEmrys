@@ -7,7 +7,7 @@
 <img src="https://github.com/StEmrys/StEmrys/assets/116520697/fce71ccc-9613-4673-ac03-56c4132718f4" align="center" height="120" width="168" />
 <div>
 
-<p align="center"> ISTQB : Certified Tester Foundation Level (CTFL) La certification ISTQB® Certified Tester Foundation Level (CTFL) fournit des connaissances essentielles en matière de tests qui peuvent être mises en pratique et, très important, explique la terminologie et les concepts utilisés dans le monde entier dans le domaine des tests. CTFL est pertinent dans toutes les approches et pratiques de livraison de logiciels, notamment Waterfall, Agile, DevOps et la livraison continue. La certification CTFL est reconnue comme un prérequis à toutes les autres certifications ISTQB® où le niveau Foundation est requis</p>
+<p align="center">
 
 
    <div>
