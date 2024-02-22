@@ -1,5 +1,6 @@
 
-![Blue Geometric Technology LinkedIn Banner (4)](https://github.com/StEmrys/StEmrys/assets/116520697/836b36cc-f645-4667-899d-6f8b5b36ad95)
+![Blue Tosca Geometric Technology Linkedln Banner (4)](https://github.com/StEmrys/StEmrys/assets/116520697/bf82c07c-9051-478a-9331-486b6b51f969)
+
 
 
 <div align="center">
